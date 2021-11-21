@@ -1,0 +1,26 @@
+
+/* @media (prefers-color-scheme: dark) {
+  
+} */
+
+:root {
+  --col-width: 340px;
+}
+
+.kQqZHU {
+  min-width: var(--col-width) !important;
+  max-width: var(--col-width) !important;
+}
+.iFtqNB, .cVZKXu {
+  min-width: calc(var(--col-width) - 12px) !important;
+  max-width: calc(var(--col-width) - 12px) !important;
+}
+.cXAjwm > .ReactVirtualized__Grid {
+  width: calc(var(--col-width) - 22px) !important;
+}
+.cXAjwm > .ReactVirtualized__Grid > .ReactVirtualized__Grid__innerScrollContainer {
+  max-width: calc(var(--col-width) - 22px) !important;
+}
+.cpqjBx {
+  max-width: calc(var(--col-width) - 12px) !important;
+}

@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Jira Improvements",
+  "description": "Jira Improvements",
+  "version": "1.0.0",
+  "content_scripts": [{
+    "css": [
+      "style.css"
+    ],
+    "matches": [
+      "https://oleaanalytics.atlassian.net/*"
+    ]
+  }]
+}
